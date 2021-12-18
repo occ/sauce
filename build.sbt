@@ -1,4 +1,4 @@
-name := "SauceControl"
+name := "sauce"
 
 scalaVersion := "3.1.0"
 
